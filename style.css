@@ -101,4 +101,6 @@ h4 {
 
 body {
 	max-width: 450px;
+	background-color: var(--lavender);
+
 }
