@@ -67,6 +67,11 @@ table {
 --dark-gray: #1E1E1E;
 --white: #ffffff;
 
+/* Fonts */
+
+--heading-font: 'Kavoon', serif;
+--body-font: 'Inter', sans-serif;
+
 }
 
 /* GLOBAL STYLES */
