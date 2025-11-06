@@ -80,7 +80,6 @@ body{
 	max-width: 450px;
 	background-color: var(--lavender);
 	font-family: var(--body-font);
-	color: var(--dark-gray);
 	margin: 0 auto;
 	line-height: 1.5;
 
