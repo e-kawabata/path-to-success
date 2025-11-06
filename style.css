@@ -87,11 +87,13 @@ body{
 }
 
 h1, h2{
-	font-family: 'Kavoon';
+	font-family: var(--heading-font);
+	color: var(--white);
 }
 
 p{
-	font-family: 'Inter';
+	font-family: var(--body-font);
+	color: var(--dark-gray);
 }
 
 h1{
