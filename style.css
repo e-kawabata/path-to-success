@@ -80,6 +80,7 @@ body{
 	max-width: 450px;
 	background-color: var(--lavender);
 	font-family: var(--body-font);
+	color: var(--dark-gray);
 	margin: 0 auto;
 	line-height: 1.5;
 
@@ -121,8 +122,15 @@ img {
 	display: block;
 }
 
+/* HEADER STYLES */
 
-
+header {
+	background-color: var(--purple);
+	text-align: center;
+	color: var(--white);
+	padding: 1.5em;
+	border-bottom: 8px solid var(--yellow);
+}
 
 
 
