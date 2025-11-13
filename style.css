@@ -184,6 +184,7 @@ nav ul li {
 
 #ourservices h3 {
 	color: var(--yellow);
+	font-weight: bold;
 	margin-bottom: 0.5em;
 }
 
