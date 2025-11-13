@@ -142,6 +142,7 @@ header p {
 
 nav {
 	background-color: var(--yellow);
+	padding: 1em;
 }
 
 h2 < nav {
