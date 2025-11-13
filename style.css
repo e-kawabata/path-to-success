@@ -152,7 +152,7 @@ h2 < nav {
 ul {
 	list-style-type: none;
 	margin: 0;
-	padding: 0;
+	padding: 1.15em;
 	width: 400px;
 	background-color: var(--white);
 }
