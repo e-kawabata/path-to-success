@@ -270,6 +270,7 @@ th, td {
 th {
 	background-color: var(--yellow);
 	color: var(--dark-gray);
+	text-transform: uppercase;
 }
 
 td {
