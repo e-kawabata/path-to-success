@@ -147,6 +147,7 @@ nav {
 h2 < nav {
 	color: var(--dark-gray);
 	font-style: italic;
+	font-variant: small-caps;
 }
 
 ul {
