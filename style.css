@@ -298,3 +298,13 @@ td {
 	display: inline-block;
 	background-color: var(--white);
 }
+
+/* FOOTER STYLES */
+
+footer {
+	background-color: var(--purple);
+	color: var(--white);
+	text-align: center;
+	padding: 1em;
+	font-size: 0.85em;
+}
