@@ -165,7 +165,6 @@ nav ul li {
 	background-color: var(--white);
 	margin: 0.5em 0;
 	padding: 0.75em;
-	border-radius: 4px;
 	color: var(--purple);
 	text-transform: uppercase;
 	font-weight: 700;
@@ -272,6 +271,8 @@ th {
 	background-color: var(--yellow);
 	color: var(--dark-gray);
 	text-transform: uppercase;
+	font-weight: bold;
+	text-align: center;
 }
 
 td {
