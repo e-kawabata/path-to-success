@@ -180,13 +180,11 @@ nav ul li {
 #ourservices h2 {
 	color: var(--white);
 	font-size: 1.8em;
-	margin-bottom: 0.75em;
 }
 
 #ourservices h3 {
 	color: var(--yellow);
 	margin-bottom: 0.5em;
-
 }
 
 #ourservices section {
