@@ -197,7 +197,6 @@ nav ul li a {
 #ourservices section {
 	background-color: var(--white);
 	border-radius: 10px;
-	box-shadow: 0 0 5px var(--dark-gray);
 	padding: 1em;
 	margin-bottom: 1em;
 }
