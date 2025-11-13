@@ -206,6 +206,7 @@ nav ul li a {
 #ourservices h4 {
 	color: var(--purple);
 	margin-bottom: 0.25em;
+	font-weight: bold;
 }
 
 /* #whychooseus SECTION STYLES */
