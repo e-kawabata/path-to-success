@@ -296,9 +296,9 @@ td {
 	margin-bottom: 0.5em;
 }
 
-#takethefirststep a { /*STYLE THE BUTTON */
-	display: inline-block;
-	background-color: var(--white);
+.button {
+	background-color:var(--white);
+	box-shadow: 2px 2px 2px;
 }
 
 /* FOOTER STYLES */
