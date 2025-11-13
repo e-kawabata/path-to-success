@@ -283,7 +283,6 @@ td {
 
 #takethefirststep {
 	background-color: var(--pink);
-	color: var(--white);
 }
 
 #takethefirststep h2 {
@@ -293,10 +292,11 @@ td {
 
 #takethefirststep p {
 	line-height: 1.4;
+	color: var(--white);
 	margin-bottom: 0.5em;
 }
 
-#takethefirststep a {
+#takethefirststep a { /*STYLE THE BUTTON */
 	display: inline-block;
 	background-color: var(--white);
 }
