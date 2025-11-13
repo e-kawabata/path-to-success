@@ -156,7 +156,7 @@ ul {
 	background-color: var(--white);
 }
 
-li a {
+nav ul li a {
 	display: block;
 	color: var(--purple);
 	font-weight: bold;
