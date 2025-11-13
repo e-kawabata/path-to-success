@@ -277,6 +277,7 @@ th {
 
 td {
 	background-color: var(--white);
+	font-weight: lighter;
 }
 
 /* #takethefirststep SECTION STYLES */
