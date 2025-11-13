@@ -244,13 +244,17 @@ nav ul li a {
 
 /* #prices SECTION STYLES */
 
+#prices {
+	background-color: var(--purple);
+	padding: 0.5em;
+}
 #prices h3 {
 	color: var(--yellow);
 	font-weight: bold;
 }
 
 table {
-	width: 100%;
+	width: 50%;
 	margin: 0.5em 0 1.5em;
 	border-collapse: collapse;
 }
@@ -267,5 +271,27 @@ th {
 }
 
 td {
+	background-color: var(--white);
+}
+
+/* #takethefirststep SECTION STYLES */
+
+#takethefirststep {
+	background-color: var(--pink);
+	color: var(--white);
+}
+
+#takethefirststep h2 {
+	font-size: 1.5em;
+	margin-bottom: 0.5em;
+}
+
+#takethefirststep p {
+	line-height: 1.4;
+	margin-bottom: 0.5em;
+}
+
+#takethefirststep a {
+	display: inline-block;
 	background-color: var(--white);
 }
