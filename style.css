@@ -157,3 +157,14 @@ ul {
 	width: 400px;
 	background-color: var(--white);
 }
+
+li a {
+	display: block;
+	color: var(--purple);
+	font-weight: bold;
+	font-variant: small-caps;
+	text-align: center;
+	background-color: var(--white);
+	padding: 8px 16px;
+	text-decoration: none;
+}
