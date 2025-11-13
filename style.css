@@ -103,10 +103,7 @@ h1{
 }
 
 h2 > nav{
-	background-color: var(--yellow);
 	font-size: 1.5em;
-	color: var(--purple);
-
 }
 
 h2{
@@ -141,4 +138,21 @@ header p {
 }
 
 
+/* NAV STYLES */
 
+nav {
+	background-color: var(--yellow);
+}
+
+h2 < nav {
+	color: var(--dark-gray);
+	font-style: italic;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 400px;
+	background-color: var(--white);
+}
