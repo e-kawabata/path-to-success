@@ -168,3 +168,18 @@ nav ul li {
 	color: var(--purple);
 	font-weight: 700;
 }
+
+
+/* MAIN STYLES */
+
+#ourservices {
+	background-color: var(--purple);
+	padding: 1.5em;
+
+}
+
+#ourservices h2 {
+	color: var(--white);
+	font-size: 1.8em;
+	margin-bottom: 0.75em;
+}
