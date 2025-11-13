@@ -139,7 +139,6 @@ header p {
 	color: var(--white);
 	text-align: center;
 	font-style: italic;
-	text-transform: uppercase;
 	font-size: 0.9em;
 	margin-top: 0.5em;
 }
@@ -158,6 +157,7 @@ nav h2 {
 	font-family: var(--body-font);
 	font-style: italic;
 	font-weight: 600;
+	text-transform: uppercase;
 	margin-bottom: 0.5em;
 }
 
