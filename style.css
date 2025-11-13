@@ -184,3 +184,17 @@ nav ul li {
 	font-size: 1.8em;
 	margin-bottom: 0.75em;
 }
+
+#ourservices h3 {
+	color: var(--yellow);
+	margin-bottom: 0.5em;
+}
+
+#ourservices section {
+	background-color: var(--white);
+	border-radius: 10px;
+	box-shadow: 0 0 5px var(--dark-gray);
+	padding: 1em;
+	margin-bottom: 1em;
+
+}
