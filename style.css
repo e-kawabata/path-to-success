@@ -175,7 +175,6 @@ nav ul li {
 #ourservices {
 	background-color: var(--purple);
 	padding: 1.5em;
-
 }
 
 #ourservices h2 {
@@ -195,5 +194,14 @@ nav ul li {
 	box-shadow: 0 0 5px var(--dark-gray);
 	padding: 1em;
 	margin-bottom: 1em;
+}
 
+#ourservices img {
+	width: 50px;
+	margin-bottom: 0.5em;
+}
+
+#ourservices h4 {
+	color: var(--purple);
+	margin-bottom: 0.25em;
 }
