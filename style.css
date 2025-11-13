@@ -133,11 +133,15 @@ header {
 	text-align: center;
 	color: var(--white);
 	padding: 1.5em;
+	border-bottom: 8px solid var(--yellow);
 }
 
 header p {
 	color: var(--white);
 	text-align: center;
+	font-style: italic;
+	font-size: 0.9em;
+	margin-top: 0.5em;
 }
 
 
