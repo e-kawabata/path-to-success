@@ -104,6 +104,9 @@ h1{
 
 h2 > nav{
 	font-size: 1.5em;
+	color: var(--dark-gray);
+	font-style: italic;
+	font-variant: small-caps;
 }
 
 h2{
@@ -143,12 +146,6 @@ header p {
 nav {
 	background-color: var(--yellow);
 	padding: 1em;
-}
-
-h2 < nav {
-	color: var(--dark-gray);
-	font-style: italic;
-	font-variant: small-caps;
 }
 
 ul {
