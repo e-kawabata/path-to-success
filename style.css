@@ -285,14 +285,12 @@ td {
 }
 
 #takethefirststep h2 {
-	margin-bottom: 0.5em;
 	padding: 10px;
 }
 
 #takethefirststep p { 
 	line-height: 1.4;
 	color: var(--white);
-	margin-bottom: 0.5em;
 	padding: 10px;
 }
 
@@ -308,7 +306,7 @@ td {
 	text-decoration: none;
 	text-transform: uppercase;
 	font-weight: bold;
-	display: inline-block;
+	display: block;
 	margin: 0 auto;
 	cursor: pointer;
 	margin-bottom: 3px;
