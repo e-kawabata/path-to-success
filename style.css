@@ -306,8 +306,6 @@ td {
 	text-decoration: none;
 	text-transform: uppercase;
 	font-weight: bold;
-	display: block;
-	margin: 0 auto;
 	cursor: pointer;
 	margin-bottom: 3px;
 }
