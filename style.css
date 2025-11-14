@@ -132,7 +132,6 @@ header {
 	text-align: center;
 	color: var(--white);
 	padding: 1.5em;
-	border-bottom: 8px solid var(--yellow);
 }
 
 header p {
@@ -149,7 +148,7 @@ header p {
 nav {
 	background-color: var(--yellow);
 	text-align: center;
-	padding: 0.5em;
+	padding: 1em;
 }
 
 nav h2 {
