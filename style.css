@@ -273,6 +273,7 @@ th {
 
 td {
 	background-color: var(--white);
+	font-size: 80%;
 }
 
 /* #takethefirststep SECTION STYLES */
@@ -298,6 +299,7 @@ td {
 	background-color:var(--white);
 	border: none;
 	color: var(--dark-gray);
+	width: 80%;
 	box-shadow: 2px 2px 2px;
 	border-radius: 10px;
 	padding: 15px 60px;
@@ -305,7 +307,7 @@ td {
 	text-decoration: none;
 	text-transform: uppercase;
 	display: inline-block;
-	margin: 6px 2px;
+	margin: 0 auto;
 	cursor: pointer;
 	transition-duration: 0.5s;
 }
