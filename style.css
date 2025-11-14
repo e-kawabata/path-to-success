@@ -280,12 +280,12 @@ td {
 }
 
 #takethefirststep h2 {
-	padding: 10px;
+	padding: 15px;
 }
 
 #takethefirststep p { 
 	color: var(--white);
-	padding: 10px;
+	padding: 15px;
 }
 
 .button {
