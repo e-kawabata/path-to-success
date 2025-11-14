@@ -213,7 +213,7 @@ nav ul li a {
 
 #whychooseus {
 	background-color: var(--pink);
-	padding: 0.5em;
+	padding: 1em;
 }
 
 #whychooseus h2 {
@@ -274,9 +274,8 @@ th {
 	text-align: center;
 }
 
-td { /* change font weight and size to match mockup */
+td {
 	background-color: var(--white);
-	font-weight: lighter;
 }
 
 /* #takethefirststep SECTION STYLES */
@@ -288,12 +287,14 @@ td { /* change font weight and size to match mockup */
 #takethefirststep h2 {
 	font-size: 1.5em;
 	margin-bottom: 0.5em;
+	padding: 10px;
 }
 
-#takethefirststep p { /*indent this text and h2 */
+#takethefirststep p { 
 	line-height: 1.4;
 	color: var(--white);
 	margin-bottom: 0.5em;
+	padding: 10px;
 }
 
 .button {
