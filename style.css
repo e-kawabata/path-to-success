@@ -292,6 +292,7 @@ td {
 #takethefirststep p { 
 	color: var(--white);
 	padding: 10px;
+	margin-top: 0;
 }
 
 .button {
