@@ -284,6 +284,10 @@ td {
 	padding-bottom: 0.75em;
 }
 
+#takethefirststep h2 {
+	padding: 10px;
+}
+
 #takethefirststep p { 
 	color: var(--white);
 	padding: 10px;
