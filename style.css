@@ -292,6 +292,15 @@ td {
 	padding: 10px;
 }
 
+.button {
+	background-color: var(--white);
+	color: var(--dark-gray);
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-weight: bold;
+	cursor: pointer;
+}
 
 /* FOOTER STYLES */
 
