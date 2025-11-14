@@ -156,9 +156,8 @@ nav h2 {
 	color: var(--dark-gray);
 	font-family: var(--body-font);
 	font-style: italic;
-	font-weight: 600;
+	font-weight: 700;
 	text-transform: uppercase;
-	margin-top: 0.25em;
 }
 
 nav ul li {
@@ -275,7 +274,7 @@ th {
 	text-align: center;
 }
 
-td {
+td { /* change font weight and size to match mockup */
 	background-color: var(--white);
 	font-weight: lighter;
 }
@@ -291,7 +290,7 @@ td {
 	margin-bottom: 0.5em;
 }
 
-#takethefirststep p {
+#takethefirststep p { /*indent this text and h2 */
 	line-height: 1.4;
 	color: var(--white);
 	margin-bottom: 0.5em;
