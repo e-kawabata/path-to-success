@@ -284,15 +284,9 @@ td {
 	padding-bottom: 0.75em;
 }
 
-#takethefirststep h2 {
-	padding: 10px;
-	margin-bottom: 0;
-}
-
 #takethefirststep p { 
 	color: var(--white);
 	padding: 10px;
-	margin-top: 0;
 }
 
 .button {
